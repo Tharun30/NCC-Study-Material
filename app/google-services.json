@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "81418957354",
+    "firebase_url": "https://national-cadet-corps-d60e1.firebaseio.com",
+    "project_id": "national-cadet-corps-d60e1",
+    "storage_bucket": "national-cadet-corps-d60e1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:81418957354:android:88bc44c0ac923c55",
+        "android_client_info": {
+          "package_name": "com.tharun.nationalcadetcorps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "81418957354-chnbqp1t7hlfd8q0as0nibd4rknb57fb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tharun.nationalcadetcorps",
+            "certificate_hash": "ded121159a32dff3a12b96b5c2c6a69db9abc27c"
+          }
+        },
+        {
+          "client_id": "81418957354-kvak2jus8shbhg9tmp8b9efbg4ha3lep.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8j_DImhNAAf9zI5HjWrTMMqBs2g1ne6M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "81418957354-kvak2jus8shbhg9tmp8b9efbg4ha3lep.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
